@@ -1,2 +1,3 @@
-	name: Zhiyu Liu, Quiet Calligrapher
-	markdown: kramdown
+name: Zhiyu Liu, Quiet Calligrapher
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
